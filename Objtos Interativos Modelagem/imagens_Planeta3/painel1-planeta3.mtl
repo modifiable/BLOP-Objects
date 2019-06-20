@@ -1,0 +1,29 @@
+# Blender MTL File: 'painel1-planeta3.blend'
+# Material Count: 3
+
+newmtl None
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd Galho-001Alpha.png
+
+newmtl None_TelaGalho.001.1_Alpha.png
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd TelaGalho.001.1 Alpha.png
+
+newmtl None_TelaGalho.001_Alpha.png
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd TelaGalho.001 Alpha.png
